@@ -1,3 +1,2 @@
 # hello-world
-I want to learn to code.  
-Spent some time learning business and decided to learn a useful skill.
+I don't know what I'm doing here anymore, just enjoying myself.
